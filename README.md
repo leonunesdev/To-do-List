@@ -17,7 +17,7 @@ Esse projeto foi deesenvolvido com as seguintes tecnologias:
 Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do zero uma simples lista de tarefas com as opções de criar e apagar um item da lista.
 
 ## 🔖 Layout
-Você pode visualizar o layout do projeto através <a href="">desse link</a>. É necessário ter conta no <a href="https://www.figma.com/files/recent?fuid=1102968563677691331">Figma</a> para acessá-lo.
+Você pode visualizar o layout do projeto através <a href="https://www.figma.com/file/AUtAJ28ZypXVOwz2Vb54Ge/ToDo-List-(Copy)?node-id=0%3A1">desse link</a>. É necessário ter conta no <a href="https://www.figma.com/files/recent?fuid=1102968563677691331">Figma</a> para acessá-lo.
 
 <hr>
 Feito com 💜 by Leandro Nunes 👋
